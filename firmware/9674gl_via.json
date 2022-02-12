@@ -2,7 +2,7 @@
   "name": "9674gl",
   "vendorId": "0xF516",
   "productId": "0x9674",
-  "lighting": "qmk_rgblight",
+  "lighting": "none",
   "matrix": { "rows": 10, "cols": 8 },
   "layouts": {
     "keymap": [
