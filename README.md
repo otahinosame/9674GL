@@ -2,6 +2,11 @@
 GL516 Case Compatible Keyboard
 GL516ケース対応キーボード
 
+9674GL keyboard a.k.a. wagatatami
+9674GL、またの名を「我が畳」。
+
+hash tag: #9674GL
+
 ## コンセプト
 
 40%キーボード感覚で使える65%キーボード。
