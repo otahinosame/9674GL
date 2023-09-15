@@ -17,15 +17,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
-#include "config_common.h"
-
-/* USB Device descriptor parameter */
-#define VENDOR_ID       0xF516 // GL516
-#define PRODUCT_ID      0x9674
-#define DEVICE_VER      0x0001
-#define MANUFACTURER    otahinosame
-#define PRODUCT         9674GL // a.k.a. wagatatami (a pillow word leading 'Mie')
-
 /* key matrix size */
 #define MATRIX_ROWS 10
 #define MATRIX_COLS 8
@@ -33,7 +24,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // wiring of each half
 #define MATRIX_ROW_PINS { D1, D0, D4, C6, D7 }
 #define MATRIX_COL_PINS { F4, F5, F6, F7, B1, B3, B2, E6 }
-#define UNUSED_PINS
 
 /* Set 0 if debouncing isn't needed */
 #define DEBOUNCE 5

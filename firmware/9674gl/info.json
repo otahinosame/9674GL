@@ -1,0 +1,10 @@
+{
+  "manufacturer": "otahinosame",
+  "keyboard_name": "9674GL",
+  "maintainer": "otahinosame",
+  "usb": {
+    "vid": "0xF516",
+    "pid": "0x9674",
+    "device_version": "0.0.1"
+  }
+}
